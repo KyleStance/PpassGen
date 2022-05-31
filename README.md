@@ -1,2 +1,2 @@
 # PpassGen
-Python Password generator
+PHP Password generator
